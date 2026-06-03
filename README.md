@@ -1,0 +1,3 @@
+suraj@Surajs-MacBook-Air Overlay % ~/Desktop/recorder.sh start
+🚀 [Recorder] Starting capture...
+suraj@Surajs-MacBook-Air Overlay % ~/Desktop/recorder.sh stop 
