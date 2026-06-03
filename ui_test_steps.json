@@ -1,0 +1,42 @@
+[
+  {
+    "visible_text" : "Home",
+    "accessibility_identifier" : "Home",
+    "timestamp" : 1780509796.9622011,
+    "element_type" : "_UITabButton",
+    "action" : "tap",
+    "accessibility_label" : ""
+  },
+  {
+    "action" : "tap",
+    "accessibility_identifier" : "Journey",
+    "accessibility_label" : "",
+    "element_type" : "_UITabButton",
+    "visible_text" : "Journey",
+    "timestamp" : 1780509797.910742
+  },
+  {
+    "visible_text" : "Library",
+    "timestamp" : 1780509798.4792929,
+    "action" : "tap",
+    "element_type" : "_UITabButton",
+    "accessibility_identifier" : "Library",
+    "accessibility_label" : ""
+  },
+  {
+    "visible_text" : "Profile",
+    "accessibility_identifier" : "Profile",
+    "accessibility_label" : "",
+    "timestamp" : 1780509799.0458179,
+    "action" : "tap",
+    "element_type" : "_UITabButton"
+  },
+  {
+    "accessibility_label" : "",
+    "accessibility_identifier" : "More",
+    "visible_text" : "More",
+    "action" : "tap",
+    "element_type" : "_UITabButton",
+    "timestamp" : 1780509799.6455269
+  }
+]
